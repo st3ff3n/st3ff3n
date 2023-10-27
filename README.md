@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Currently a student at Noroff University College , Digital Forensics 2nd year 
+
 <!--
 **st3ff3n/st3ff3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
